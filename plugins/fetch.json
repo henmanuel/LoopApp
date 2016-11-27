@@ -1,0 +1,10 @@
+{
+    "com.transistorsoft.cordova.background-geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-background-geolocation-lt"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
